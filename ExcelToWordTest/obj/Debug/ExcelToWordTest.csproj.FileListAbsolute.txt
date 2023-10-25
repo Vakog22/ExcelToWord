@@ -1,0 +1,16 @@
+C:\Users\Alexander\source\repos\ExcelToWordTest\ExcelToWordTest\bin\Debug\ExcelToWordTest.exe.config
+C:\Users\Alexander\source\repos\ExcelToWordTest\ExcelToWordTest\bin\Debug\ExcelToWordTest.exe
+C:\Users\Alexander\source\repos\ExcelToWordTest\ExcelToWordTest\bin\Debug\ExcelToWordTest.pdb
+C:\Users\Alexander\source\repos\ExcelToWordTest\ExcelToWordTest\obj\Debug\ExcelToWordTest.csproj.AssemblyReference.cache
+C:\Users\Alexander\source\repos\ExcelToWordTest\ExcelToWordTest\obj\Debug\ExcelToWordTest.csproj.ResolveComReference.cache
+C:\Users\Alexander\source\repos\ExcelToWordTest\ExcelToWordTest\obj\Debug\MainWindow.g.cs
+C:\Users\Alexander\source\repos\ExcelToWordTest\ExcelToWordTest\obj\Debug\App.g.cs
+C:\Users\Alexander\source\repos\ExcelToWordTest\ExcelToWordTest\obj\Debug\ExcelToWordTest_MarkupCompile.cache
+C:\Users\Alexander\source\repos\ExcelToWordTest\ExcelToWordTest\obj\Debug\ExcelToWordTest_MarkupCompile.lref
+C:\Users\Alexander\source\repos\ExcelToWordTest\ExcelToWordTest\obj\Debug\MainWindow.baml
+C:\Users\Alexander\source\repos\ExcelToWordTest\ExcelToWordTest\obj\Debug\ExcelToWordTest.g.resources
+C:\Users\Alexander\source\repos\ExcelToWordTest\ExcelToWordTest\obj\Debug\ExcelToWordTest.Properties.Resources.resources
+C:\Users\Alexander\source\repos\ExcelToWordTest\ExcelToWordTest\obj\Debug\ExcelToWordTest.csproj.GenerateResource.cache
+C:\Users\Alexander\source\repos\ExcelToWordTest\ExcelToWordTest\obj\Debug\ExcelToWordTest.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\ExcelToWordTest\ExcelToWordTest\obj\Debug\ExcelToWordTest.exe
+C:\Users\Alexander\source\repos\ExcelToWordTest\ExcelToWordTest\obj\Debug\ExcelToWordTest.pdb
